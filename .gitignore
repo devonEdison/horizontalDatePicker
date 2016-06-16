@@ -88,3 +88,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+app/
+build.gradle
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
